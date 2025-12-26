@@ -14,9 +14,10 @@
 14. How to create multiple instances in domain mode
 15. What is the command to start jboss in standalone mode and domain mode
 16. What are the important configuration files in standalone mode and domain mode
-
-
-
+17. In how many ways, we can configure jboss with oracle
+18. How to configure jboss with oracle using  Management Console
+19. How to configure jboss with oracle using  jboss-cli
+20. How to configure jboss with oracle using  xml file
 
 
 Linux questions
@@ -24,3 +25,12 @@ Linux questions
 command to find free disk space
 command to find free memory
 command to fid os version
+search a string in file
+find and replace a string in a file
+search a string in multiple files
+command to search a file
+command to change file permissions
+how to edit a file
+command to copy a file from once host to other host
+how to configure ssh passwordless login
+command to find os architecture
