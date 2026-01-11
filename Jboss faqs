@@ -18,6 +18,24 @@
 18. How to configure jboss with oracle using  Management Console
 19. How to configure jboss with oracle using  jboss-cli
 20. How to configure jboss with oracle using  xml file
+21. In how many ways we can deploy an application and explain all the three ways
+22. Explain, waht happens in the backend while deploying an application
+23. What is the difference between webserver and appserver
+24. How to integrate apache with jboss using mod_jk explain in detailed
+25. What is cluster and difference between vertical cluster and horizontal cluster
+26. How to configure hosrizontal cluster in domain mode
+
+
+
+General Questions
+------------------
+1. Tell about yourself
+
+
+Troubleshooting or scenario based questions
+-------------------------------------------
+1. I am unable to connect to db, how to troubleshoot it
+2. How to troubleshoot 404 error.
 
 
 Linux questions
