@@ -35,7 +35,14 @@
 35. What is the command to generate a heap dump
 36. What is a thread dump
 37. What is the command to generate a thread dump
-
+38. What is a profile in JBOSS
+39. What are different profiles in jboss and explain the differences
+40. What is a module
+41. What is a subsytem
+42. What is the connection url for oracle
+43. How to check appServer is connected with the DB
+44. What is the difference between XA and NON XA Datasource
+45. What are the different log files in JBOSS and its location
 
 Apache Questions
 ----------------
@@ -48,7 +55,7 @@ Apache Questions
 7. What is URL redirection
 8. What is virtual host in apache
 9. How to configure SSL in apache
-
+10. What are different log files in Apache
 
 General Questions
 ------------------
